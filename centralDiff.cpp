@@ -1,3 +1,6 @@
+/* here we are finding differential
+ value of 3x^2+5x at point x=2 */
+
 #include<iostream>
 #include<cmath>
 using namespace std;
